@@ -50,7 +50,7 @@ interests:
   - Numerical modeling
 
 education:
-  - area: PhD Mechanical Engineering
+  - area: Ph.D. Mechanical Engineering
     institution: University of Rochester, USA
     date_start: 2017-09-01
     date_end: 2023-08-31
@@ -107,7 +107,7 @@ skills:
         icon: code-bracket
       - name: MOM6, CESM, ROMS, WRF
         description: Ocean and Atmosphere Numerical Models
-        icon: globe
+        icon: assets/media/icons/globe.svg
 
   - name: Hobbies
     color: '#eeac02'
