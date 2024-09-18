@@ -71,12 +71,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: CFD Engineer
+    company_name: Chiyoda Corporation
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2017-02-01
+    date_end: '2017-07-01'
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -99,18 +99,14 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python, FORTRAN, C, C++, MATLAB
         description: ''
-        percent: 80
+        percent: ''
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: MOM6, CESM, ROMS, WRF
+        description: Ocean and Atmosphere Numerical Models
+        icon: globe
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
