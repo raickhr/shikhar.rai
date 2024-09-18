@@ -55,28 +55,17 @@ education:
     date_start: 2017-09*-01
     date_end: 2023-08-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Scale Analysis of Wind Work on the Oceanic General Circulation_. Supervised by [Prof. Hussein Aluie](https://www.hajim.rochester.edu/me/people/faculty/aluie_hussein/index.html#:~:text=Professor%2C%20Department%20of%20Mechanical%20Engineering,Laboratory%20for%20Laser%20Energetics%20(LLE)).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelors in Mechanical Engineering
+    institution: Pulchowk Campus, Tribhuvan University
+    date_start: 2010-10-01
+    date_end: 2015-02-01
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
