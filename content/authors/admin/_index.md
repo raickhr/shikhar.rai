@@ -52,7 +52,7 @@ interests:
 education:
   - area: PhD Mechanical Engineering
     institution: University of Rochester
-    date_start: 2017-09*-01
+    date_start: 2017-09-01
     date_end: 2023-08-31
     summary: |
       Thesis on _Scale Analysis of Wind Work on the Oceanic General Circulation_. Supervised by [Prof. Hussein Aluie](https://www.hajim.rochester.edu/me/people/faculty/aluie_hussein/index.html#:~:text=Professor%2C%20Department%20of%20Mechanical%20Engineering,Laboratory%20for%20Laser%20Energetics%20(LLE)).
