@@ -46,7 +46,7 @@ interests:
   - Physical Oceanography
   - Geophysical Fluid Dynamics
   - Air Sea Interaction
-  - Turbelence
+  - Turbulence
   - Numerical modeling
 
 education:
@@ -172,4 +172,4 @@ languages:
 
 ## About Me
 
-Shikhar Rai is a post doctoral investigator in Physical Oceanography department at Woods Hole Oceanographic Institution. His research interests include Physical Oceanography, Geophysical Fluid Dynamics, Air-Sea Interaction, Turbulence and Numerical Modeling. he uses satellite data and coupled atmosphere-ocean simulations to explore the multiscale physics of the ocean and the atmosphere.
+Shikhar Rai is a post doctoral investigator in Physical Oceanography department at Woods Hole Oceanographic Institution. His research interests include Physical Oceanography, Geophysical Fluid Dynamics, Air-Sea Interaction, Turbulence and Numerical Modeling. He uses satellite data and coupled atmosphere-ocean simulations to explore the multiscale physics of the ocean and the atmosphere.
