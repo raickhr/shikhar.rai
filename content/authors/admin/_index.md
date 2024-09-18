@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'shikhar.rai@whoi.edu'
+    url: shikhar.rai@whoi.edu
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/raickhr
@@ -166,4 +166,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shikhar Rai is a post doctoral investigator in Physical Oceanography department at Woods Hole Oceanographic Institution. His research interests include Physical Oceanography, Geophysical Fluid Dynamics, Air-Sea Interaction, Turbulence and Numerical Modeling. he uses satellite data and coupled atmosphere-ocean simulations to explore the multiscale physics of the ocean and the atmosphere.
