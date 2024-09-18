@@ -107,7 +107,7 @@ skills:
         icon: code-bracket
       - name: MOM6, CESM, ROMS, WRF
         description: Ocean and Atmosphere Numerical Models
-        icon: world
+        icon: {{</* img src="assets/media/icons/globe.svg"*/>}}
 
   - name: Hobbies
     color: '#eeac02'
