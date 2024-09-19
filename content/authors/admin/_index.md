@@ -61,7 +61,8 @@ education:
       # text: 'Read Thesis'
       # url: 'https://example.com'
   - area: Bachelors in Mechanical Engineering
-    institution: [Pulchowk Campus, Tribhuvan University](https://mech.pcampus.edu.np), Nepal
+    institution: Pulchowk Campus, Tribhuvan University, Nepal
+    url: https://mech.pcampus.edu.np/
     date_start: 2010-10-01
     date_end: 2015-02-01
     summary: |
