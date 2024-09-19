@@ -105,7 +105,7 @@ skills:
   - name: Technical Skills
     items:
       - name: Python, FORTRAN, C, C++, MATLAB, MPI, HPC
-        description: ''
+        description: 'coding skills'
         percent: ''
         icon: code-bracket
       - name: ANSYS Fluent, CFX, ICEM-CFD, Pointwise
@@ -178,4 +178,4 @@ languages:
 
 ## About Me
 
-Shikhar Rai is a post doctoral investigator in Physical Oceanography department at Woods Hole Oceanographic Institution. His research interests include Physical Oceanography, Geophysical Fluid Dynamics, Air-Sea Interaction, Turbulence and Numerical Modeling. He uses satellite data and coupled atmosphere-ocean simulations to explore the multiscale physics of the ocean and the atmosphere.
+Shikhar Rai is a post doctoral investigator in Physical Oceanography department at Woods Hole Oceanographic Institution. His research interests include Physical Oceanography, Geophysical Fluid Dynamics, Air-Sea Interaction, Turbulence and Numerical Modeling. He uses satellite data and coupled atmosphere-ocean simulations to explore the multiscale physics of the ocean and the atmosphere. Supervised by: [Prof. Hussein Aluie](https://www.complexflowgroup.com/)
