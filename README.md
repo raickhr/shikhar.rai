@@ -1,5 +1,3 @@
-# Thesis Title: _Scale Analysis of Wind Work on the Oceanic General Circulation_. Supervised by [Prof. Hussein Aluie](https://www.complexflowgroup.com/)
-
 
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
