@@ -72,12 +72,50 @@ education:
       - Control System
       - Programming
 work:
+  - position: Post Doctoral Investigator
+    company_name: Woods Hole Oceanographic Institution
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-07-31
+    date_end: ''
+    summary: |
+      Research work:
+      - Involved in NOAA Tropical Pacific Observing System (TPOS) project
+      - Running regional numerical models ROMS, WRF and Wave Watch 3 coupled with SCOAR
+      - Investigating QuikSCAT and NDBC TAO buoy wind measurements in the Tropical Pacific region
+      - Investigating the SST variability, vertical mixing and air-sea fluxes in the Tropical Pacific. 
+
+  - position: Graduate Reserach Student
+    company_name: Los Alamos National Laboratory
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-06-01
+    date_end: 2019-08-31
+    summary: |
+      Research work:
+      - Studied wind work on ocean mesoscales using satellite data (AVISO altimetry and QuikSCAT winds)
+      - Wrote a FORTRAN code using MPI for HPC for coarse graining
+      - Wrote python codes for post processing and plotting 
+
+  - position: Graduate Reserach Student
+    company_name: Los Alamos National Laboratory
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-05-31
+    date_end: 2018-08-31
+    summary: |
+      Research work:
+      - Studied wind work on ocean mesoscales using high resolution CESM data.
+      - Wrote a FORTRAN code using MPI for HPC for coarse graining
+      - Wrote python codes for post processing and plotting 
+
+
   - position: CFD Engineer
     company_name: Chiyoda Corporation, Japan
     company_url: ''
     company_logo: ''
     date_start: 2017-02-01
-    date_end: '2017-07-01'
+    date_end: 2017-07-01
     summary: |
       Responsibilities include:
       - Creating 3D geometry from 2D engineering drawings
