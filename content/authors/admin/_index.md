@@ -54,10 +54,8 @@ education:
     institution: University of Rochester, USA
     date_start: 2017-09-01
     date_end: 2023-08-31
-    summary: |
-      Thesis :
-      - Title: _Scale Analysis of Wind Work on the Oceanic General Circulation_. 
-      - Supervised by: [Prof. Hussein Aluie](https://www.complexflowgroup.com/)
+    summary:
+      Thesis on _Scale Analysis of Wind Work on the Oceanic General Circulation_. Supervised by [Prof. Hussein Aluie](https://www.complexflowgroup.com/)
       
     # button:
       # text: 'Read Thesis'
@@ -67,7 +65,6 @@ education:
     date_start: 2010-10-01
     date_end: 2015-02-01
     summary: |
-  
       Courses included:
       - Fluid Dynamics
       - Solid Mechanics
@@ -81,7 +78,7 @@ work:
     company_logo: ''
     date_start: 2017-02-01
     date_end: '2017-07-01'
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Creating 3D geometry from 2D engineering drawings
       - Creating meshes in ANSYS ICEM CFD and Pointwise for running CFD simulations of the parts used in Natural Gas plants.
@@ -178,4 +175,4 @@ languages:
 
 ## About Me
 
-Shikhar Rai is a post doctoral investigator in Physical Oceanography department at Woods Hole Oceanographic Institution. His research interests include Physical Oceanography, Geophysical Fluid Dynamics, Air-Sea Interaction, Turbulence and Numerical Modeling. He uses satellite data and coupled atmosphere-ocean simulations to explore the multiscale physics of the ocean and the atmosphere. Supervised by: [Prof. Hussein Aluie](https://www.complexflowgroup.com/)
+Shikhar Rai is a post doctoral investigator in Physical Oceanography department at Woods Hole Oceanographic Institution. His research interests include Physical Oceanography, Geophysical Fluid Dynamics, Air-Sea Interaction, Turbulence and Numerical Modeling. He uses satellite data and coupled atmosphere-ocean simulations to explore the multiscale physics of the ocean and the atmosphere.
