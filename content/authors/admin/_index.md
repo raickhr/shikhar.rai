@@ -108,6 +108,9 @@ skills:
       - name: ANSYS Fluent, CFX, ICEM-CFD, Pointwise
         description: 'commercial CFD tools and meshing tools'
         icon: "custom/skill" 
+      - name: SolidWorks, CATIA, AutoCAD
+        description: 'commercial 3D modeling tools'
+        icon: "custom/cube"
       - name: MOM6, CESM, ROMS, WRF
         description: Ocean and Atmosphere Numerical Models
         icon: "custom/coding"
