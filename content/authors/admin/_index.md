@@ -55,7 +55,7 @@ education:
     date_start: 2017-09-01
     date_end: 2023-08-31
     summary: |
-      Thesis Title: _Scale Analysis of Wind Work on the Oceanic General Circulation_. Supervised by [Prof. Hussein Aluie](https://www.hajim.rochester.edu/me/people/faculty/aluie_hussein/index.html#:~:text=Professor%2C%20Department%20of%20Mechanical%20Engineering,Laboratory%20for%20Laser%20Energetics%20(LLE))
+      Thesis Title: _Scale Analysis of Wind Work on the Oceanic General Circulation_. Supervised by [Prof. Hussein Aluie](https://www.complexflowgroup.com/)
     # button:
       # text: 'Read Thesis'
       # url: 'https://example.com'
@@ -101,7 +101,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python, FORTRAN, C, C++, MATLAB
+      - name: Python, FORTRAN, C, C++, MATLAB, MPI, HPC
         description: ''
         percent: ''
         icon: code-bracket
