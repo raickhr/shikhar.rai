@@ -122,7 +122,7 @@ skills:
       - name: painting/drawing
         description: ''
         percent: 100
-        icon: fa-paintbrush
+        icon: paintbrush
 
       # - name: Photography
       #   description: ''
