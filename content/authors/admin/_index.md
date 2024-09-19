@@ -110,19 +110,19 @@ skills:
         icon: code-bracket
       - name: MOM6, CESM, ROMS, WRF
         description: Ocean and Atmosphere Numerical Models
-        icon: code-bracket
+        icon: "custom/coding"
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        # percent: 60
+        percent: 60
         icon: person-simple-walk
       - name: painting/drawing
         description: ''
-        # percent: 100
-        icon: "custom/mcdonalds"
+        percent: 100
+        icon: "custom/painting"
 
       # - name: Photography
       #   description: ''
