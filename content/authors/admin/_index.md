@@ -122,7 +122,7 @@ skills:
       - name: painting/drawing
         description: ''
         percent: 100
-        icon: "custom/painting"
+        icon: "custom/coding"
 
       # - name: Photography
       #   description: ''
