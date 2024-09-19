@@ -119,14 +119,15 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: painting/drawing
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        icon: painting
+        
+      # - name: Photography
+      #   description: ''
+      #   percent: 80
+      #   icon: camera
 
 languages:
   - name: English
