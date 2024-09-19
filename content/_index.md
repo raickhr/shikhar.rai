@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am a fluid dynamics enthusiast studying fluid dynamics of the geophysical fluids. My research works are mostly related with air-sea interactions and physical oceanography. I employ numerical models and use satellite and insitu observational datasets in my research. I am keen in understanding the multiscale physics of the geophysical fluids. I attempt to understand the interaction of the physical process at various lengthscales and timescales. I am also interested in developing turbulent parameterizations in the numerical models. 
     design:
       columns: '1'
   - block: collection
