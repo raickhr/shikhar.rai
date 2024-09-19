@@ -108,6 +108,9 @@ skills:
         description: ''
         percent: ''
         icon: code-bracket
+      - name: ANSYS Fluent, CFX, ICEM-CFD, Pointwise
+        description: 'commercial CFD tools and meshing tools'
+        icon: "custom/skill" 
       - name: MOM6, CESM, ROMS, WRF
         description: Ocean and Atmosphere Numerical Models
         icon: "custom/coding"
