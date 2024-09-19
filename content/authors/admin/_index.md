@@ -55,7 +55,10 @@ education:
     date_start: 2017-09-01
     date_end: 2023-08-31
     summary: |
-      Thesis Title: _Scale Analysis of Wind Work on the Oceanic General Circulation_. Supervised by [Prof. Hussein Aluie](https://www.complexflowgroup.com/)
+      Thesis :
+      - Title: _Scale Analysis of Wind Work on the Oceanic General Circulation_. 
+      - Supervised by: [Prof. Hussein Aluie](https://www.complexflowgroup.com/)
+      
     # button:
       # text: 'Read Thesis'
       # url: 'https://example.com'
