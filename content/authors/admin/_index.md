@@ -85,7 +85,7 @@ work:
       - Investigating QuikSCAT and NDBC TAO buoy wind measurements in the Tropical Pacific region
       - Investigating the SST variability, vertical mixing and air-sea fluxes in the Tropical Pacific. 
 
-  - position: Graduate Reserach Student
+  - position: Graduate Research Student
     company_name: Los Alamos National Laboratory
     company_url: ''
     company_logo: ''
@@ -97,7 +97,7 @@ work:
       - Wrote a FORTRAN code using MPI for HPC for coarse graining
       - Wrote python codes for post processing and plotting 
 
-  - position: Graduate Reserach Student
+  - position: Graduate Research Student
     company_name: Los Alamos National Laboratory
     company_url: ''
     company_logo: ''

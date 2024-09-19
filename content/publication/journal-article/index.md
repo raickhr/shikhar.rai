@@ -1,12 +1,12 @@
 ---
-title: "An example journal article"
+title: "Scale of oceanic eddy killing by wind from global satellite observations"
 authors:
 - admin
-- Robert Ford
+- Matthew Hecht, Mathew Maltrud, Hussein Aluie
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2021-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
