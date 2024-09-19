@@ -122,7 +122,7 @@ skills:
       - name: painting/drawing
         description: ''
         percent: 100
-        icon: painting
+        icon: {{< icon name="python" >}} Python
 
       # - name: Photography
       #   description: ''
