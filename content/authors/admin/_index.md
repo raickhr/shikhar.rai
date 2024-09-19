@@ -56,7 +56,6 @@ education:
     date_end: 2023-08-31
     summary: |
       Thesis Title: _Scale Analysis of Wind Work on the Oceanic General Circulation_. Supervised by [Prof. Hussein Aluie](https://www.complexflowgroup.com/)
-      [I'm an external link](https://www.google.com)
     # button:
       # text: 'Read Thesis'
       # url: 'https://example.com'
@@ -108,7 +107,7 @@ skills:
         icon: code-bracket
       - name: MOM6, CESM, ROMS, WRF
         description: Ocean and Atmosphere Numerical Models
-        icon: globe
+        icon: "globe"
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
