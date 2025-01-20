@@ -32,7 +32,7 @@ organizations:
 profiles:
   - icon: custom/envelope  #at-symbol
     url: "mailto:shikhar.rai@whoi.edu"
-    label: E-mail Me
+    label: shikhar.rai@whoi.edu
   - icon: brands/github
     url: https://github.com/raickhr
   - icon: brands/linkedin
