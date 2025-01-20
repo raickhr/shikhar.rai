@@ -1,17 +1,28 @@
 ---
 title: Publications
-cms_exclude: true
+type: landing
+# cms_exclude: true
 
-# View.
-view: citation
+# # View.
+# view: citation
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+# # Optional header image (relative to `static/media/` folder).
+# banner:
+#   caption: ''
+#   image: ''
 
 
 sections:
+  - block: collection
+    id: publications
+    content:
+      title: Peer-Reviewed Publications
+      filters:
+        folders:
+          - publication
+    design:
+      view: citation
+
   - block: collection
     id: Preprints
     content:
