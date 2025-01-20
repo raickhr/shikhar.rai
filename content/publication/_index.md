@@ -9,4 +9,16 @@ view: citation
 banner:
   caption: ''
   image: ''
+
+
+sections:
+  - block: collection
+    id: Preprints
+    content:
+      title: Pre-prints
+      filters:
+        folders:
+          - preprints
+    design:
+      view: citation
 ---
