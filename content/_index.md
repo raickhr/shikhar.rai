@@ -14,6 +14,10 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
+      # Show a call-to-action button under your biography? (optional)
+      # button:
+      #   text: Download CV
+      #   url: uploads/CV_ShikharRai.pdf
     design:
       css_class: dark
       background:
@@ -26,13 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-    # Show a call-to-action button
-  - block: buttons
-      content:
-        buttons:
-          text: Download CV
-          url: uploads/CV_ShikharRai.pdf
-
   - block: markdown
     content:
       title: '📚 My Research'
