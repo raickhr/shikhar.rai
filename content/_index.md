@@ -26,6 +26,13 @@ sections:
           size: cover
           position: center
           parallax: false
+    # Show a call-to-action button
+  - block: buttons
+      content:
+        buttons:
+          text: Download CV
+          url: uploads/CV_ShikharRai.pdf
+
   - block: markdown
     content:
       title: '📚 My Research'

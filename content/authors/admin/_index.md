@@ -42,10 +42,6 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-4448-3142
 
-  # Show a call-to-action button under your biography? (optional)
-button:
-  text: Download CV
-  url: uploads/CV_ShikharRai.pdf
 
 interests:
   - Physical Oceanography
