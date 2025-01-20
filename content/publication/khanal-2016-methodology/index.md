@@ -13,7 +13,7 @@ publishDate: '2025-01-20T19:29:11.686391Z'
 publication_types:
 - article-journal
 publication: '*Renewable Energy*'
-url_custom:
+links:
   name: "Source Document"
   icon: "custom/link"
   url: "https://www.sciencedirect.com/science/article/abs/pii/S0960148115303761"
