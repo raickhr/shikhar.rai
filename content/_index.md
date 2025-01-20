@@ -9,6 +9,13 @@ design:
   spacing: "6rem"
 
 sections:
+  - block: buttons
+    content:
+      buttons:
+        text: Download CV
+        url: uploads/CV_ShikharRai.pdf
+
+
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
