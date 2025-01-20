@@ -15,7 +15,7 @@ publication_types:
 - article-journal
 publication: '*Physical Review Fluids*'
 url_custom:
-  name: "<i class='fas fa-file-alt'></i> Source Document"
+  name: "Source Document"
   icon: "custom/link"
   url:  "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.104601"
 ---

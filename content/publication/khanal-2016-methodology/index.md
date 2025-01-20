@@ -14,7 +14,7 @@ publication_types:
 - article-journal
 publication: '*Renewable Energy*'
 url_custom:
-  name: "<i class='fas fa-file-alt'></i> Source Document"
+  name: "Source Document"
   icon: "custom/link"
   url: "https://www.sciencedirect.com/science/article/abs/pii/S0960148115303761"
 ---
