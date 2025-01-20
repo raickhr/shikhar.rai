@@ -30,9 +30,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: "fas fa-envelope"  #at-symbol
+  - icon: custom/envelope  #at-symbol
     url: "mailto:shikhar.rai@whoi.edu"
-    #label: E-mail Me
+    label: E-mail Me
   - icon: brands/github
     url: https://github.com/raickhr
   - icon: brands/linkedin
