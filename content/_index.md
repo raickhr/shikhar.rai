@@ -11,7 +11,7 @@ design:
 sections:
   - block: buttons
     content:
-      buttons:
+      button:
         text: Download CV
         url: uploads/CV_ShikharRai.pdf
 
