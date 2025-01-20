@@ -14,8 +14,5 @@ publishDate: '2025-01-20T19:29:11.673966Z'
 publication_types:
 - article-journal
 publication: '*Physical Review Fluids*'
-links:
-  name: "Source Document"
-  icon: "custom/link"
-  url:  "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.104601"
+url_source: "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.104601"
 ---
