@@ -45,9 +45,9 @@ profiles:
 interests:
   - Physical Oceanography
   - Geophysical Fluid Dynamics
-  - Air Sea Interaction
+  - Air-Sea Interaction
   - Turbulence
-  - Numerical modeling
+  - Numerical Modeling
 
 education:
   - area: Ph.D. Mechanical Engineering
