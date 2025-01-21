@@ -43,12 +43,12 @@
     {{ if $avatar }}
 
     <div class="avatar-wrapper flex justify-center mb-4 object-cover">
-      {{ $avatar_image := $avatar.Fill "225x225 Center" }}
+      {{ $avatar_image := $avatar.Fill "350x350 Center" }}
       <img class="avatar flex justify-center rounded-full bg-white dark:bg-gray-800 p-1 object-cover overflow-hidden" 
            src="{{ $avatar_image.RelPermalink }}" 
            alt="{{$person_page.Title}}"
-           width="225" 
-           height="225">
+           width="350" 
+           height="350">
       {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
     </div>
     {{ end }}
