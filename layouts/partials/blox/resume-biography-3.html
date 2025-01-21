@@ -44,7 +44,7 @@
 
     <div class="avatar-wrapper flex justify-center {{ if $img }}-mt-[450px]{{else}}mt-6{{end}} mb-2">
       {{ $avatar_image := $avatar.Fill "225x225 Center" }}
-      <img class="avatar flex justify-center rounded-full bg-white dark:bg-gray-800 p-1 object-cover" 
+      <img class="avatar flex justify-center rounded-2xl bg-white dark:bg-gray-800 p-1 object-cover" 
            src="{{ $avatar_image.RelPermalink }}" 
            alt="{{$person_page.Title}}"
            width="225" 
