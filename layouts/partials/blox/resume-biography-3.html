@@ -42,14 +42,12 @@
   <div id="profile" class="flex justify-center items-center flex-col">
     {{ if $avatar }}
 
-    <div class="avatar-wrapper flex justify-center "> <!-- {{ if $img }}-mt-[105px]{{else}}mt-6{{end}} -->
-      {{ $avatar_image := $avatar.Fill "300x300 Center" }}
-      <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1 object-cover" 
+    <div class="avatar-wrapper flex justify-center {{ if $img }}-mt-[105px]{{else}}mt-6{{end}}">
+      <img class="rounded-full bg-white dark:bg-gray-800 p-1 object-cover" 
            src="{{ $avatar_image.RelPermalink }}" 
            alt="{{$person_page.Title}}"
-           width="{{ $avatar_image.Width }}" 
-           height="{{ $avatar_image.Width }}">
-      {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
+           width="300" 
+           height="300">
     </div>
     {{ end }}
 
