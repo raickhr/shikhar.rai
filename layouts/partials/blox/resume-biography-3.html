@@ -42,7 +42,7 @@
   <div id="profile" class="flex justify-center items-center flex-col">
     {{ if $avatar }}
 
-    <div class="avatar-wrapper flex justify-center {{ if $img }}-mt-[105px]{{else}}mt-6{{end}}">
+    <div class="avatar-wrapper flex justify-center {{ if $img }}-mt-[225px]{{else}}mt-6{{end}}">
       {{ $avatar_image := $avatar.Fill "225x225 Center" }}
       <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1 object-cover" 
            src="{{ $avatar_image.RelPermalink }}" 
@@ -53,7 +53,7 @@
     </div>
     {{ end }}
 
-    <div class="portrait-title dark:text-white flex justify-center">
+    <div class="portrait-title dark:text-white justify-center">
 
       <div class="text-3xl font-bold mb-2 mt-2 justify-center">
         {{- if $person.name_pronunciation -}}
