@@ -47,8 +47,7 @@
       <img class="avatar flex justify-center rounded-full bg-white dark:bg-gray-800 p-1 object-cover overflow-hidden" 
            src="{{ $avatar_image.RelPermalink }}" 
            alt="{{$person_page.Title}}"
-           width="450" 
-           height="450">
+           width="{{ $avatar_image.Width }}" height="{{ $avatar_image.Height }}">
       {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
     </div>
     {{ end }}
