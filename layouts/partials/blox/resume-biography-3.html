@@ -113,9 +113,9 @@
     <div class="mt-6">
       <h3>Contact Info:</h3>
       {{ range $person.contacts }}
-        <div class="mt-2">{{ .address }}</div>
-        <div class="mt-2">Email: {{ .email }}</div>
-        <div class="mt-2">Tel: {{ .phone }}</div>
+        <div class="mt-2">{{ .address  | markdownify | emojify }}</div>
+        <div class="mt-2">Email: {{ .email | markdownify | emojify }}</div>
+        <div class="mt-2">Tel: {{ .phone | markdownify | emojify }}</div>
       {{ end }}
     </div>
 
