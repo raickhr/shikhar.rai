@@ -174,15 +174,15 @@ skills:
       #   percent: 80
       #   icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Nepali
-    percent: 100
-  - name: Hindi
-    percent: 80
-  - name: Japanese
-    percent: 25
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Nepali
+#     percent: 100
+#   - name: Hindi
+#     percent: 80
+#   - name: Japanese
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
