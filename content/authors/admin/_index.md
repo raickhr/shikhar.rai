@@ -26,9 +26,7 @@ role: Post Doctoral Investigator
 organizations:
   - name: Woods Hole Oceanographic Institution
     url: https://www.whoi.edu/what-we-do/understand/departments-centers-labs/po/
-
-contacts:
-  - address: Clark 206A, 360 Woods Hole Rd, Woods Hole Oceanographic Institution, MA 02543
+  - address: Clark 206A, 360 Woods Hole Rd, MA 02543
   - email: "shikhar.rai@whoi.edu"
   - phone: +1 (508) 289-3278
 

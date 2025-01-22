@@ -73,6 +73,9 @@
         {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
         <div>{{ .name }}</div>
         {{ if .url }}</a>{{ end }}
+        <div>{{ .address }}</div>
+        <div>{{ .email }}</div>
+        <div>{{ .phone }}</div>
       </div>
       {{ end }}
 
@@ -109,14 +112,6 @@
       <path d="M18 12h-2.55l-2.975 2.975a3.5 3.5 0 0 1-4.95 0L4.55 12H2a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-4a2 2 0 0 0-2-2Zm-3 5a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"/>
     </svg> {{.text}}</a>
     {{ end }}
-    </div>
-    <div class="mt-6">
-      <h3>Contact Info:</h3>
-      {{ range $person.contacts }}
-        <div class="mt-2" {{ with $block.design.biography.style }}{{ (printf "style=\"%s\"" .) | safe.HTMLAttr }}{{end}}>{{ .address  | markdownify | emojify }}</div>
-        <div class="mt-2" {{ with $block.design.biography.style }}{{ (printf "style=\"%s\"" .) | safe.HTMLAttr }}{{end}}>Email: {{ .email | markdownify | emojify }}</div>
-        <div class="mt-2" {{ with $block.design.biography.style }}{{ (printf "style=\"%s\"" .) | safe.HTMLAttr }}{{end}}>Tel: {{ .phone | markdownify | emojify }}</div>
-      {{ end }}
     </div>
 
   </div>
