@@ -73,9 +73,8 @@
         {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
         <div>{{ .name }}</div>
         {{ if .url }}</a>{{ end }}
-        <div>{{ .address }}</div>
-        <div>Email: {{ .email }}</div>
-        <div>Tel: {{ .phone }}</div>
+        <div>{{ .street }}</div>
+        <div>{{ .city }}</div>
       </div>
       {{ end }}
 
