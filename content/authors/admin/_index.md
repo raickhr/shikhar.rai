@@ -29,7 +29,7 @@ organizations:
 
 contacts:
   - address: Clark 206A, 360 Woods Hole Rd, Woods Hole Oceanographic Institution, MA 02543
-  - email: shikhar.rai@whoi.edu
+  - email: "shikhar.rai@whoi.edu"
   - phone: +1 (508) 289-3278
 
 
