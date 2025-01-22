@@ -220,4 +220,11 @@ languages:
 
 ## About Me
 
-Shikhar Rai is a post doctoral investigator in Physical Oceanography department at Woods Hole Oceanographic Institution. His research interests include Physical Oceanography, Geophysical Fluid Dynamics, Air-Sea Interaction, Turbulence and Numerical Modeling. He uses satellite data and coupled atmosphere-ocean simulations to explore the multiscale physics of the ocean and the atmosphere.
+I am a Post-doctoral Investigator in Physical Oceanography Department at Woods Hole Oceanographic Institution working with Dr. Susan Wijffles(https://www.whoi.edu/profile/swijffels/) and Dr. Hyodae Seo(https://hseo.whoi.edu/people/dr-hyodae-seo/). My research focuses on the exploration of the multiscale physics of the interaction between the ocean and the atmosphere.
+
+Atmospheric and oceanic motions differ greatly in their temporal and spatial scales. For instance, a hurricane in the atmosphere can span over a thousand kilometers and travel at hundreds of kilometers per hour, whereas, oceanic eddies are typically a few hundered kilometers wide and move with speed of about a kilometer an hour. My work focuses on understanding how the large-scale and fast-moving atmospheric system interact with smaller and slower oceanic system through the exchange of momentum, heat and gases at the ocean suface. 
+
+To explore these complex dynamics, I run regional ocean and atmosphere models as well as analyze satellite and in-situ observations. I use coarse-graining method to disentangle the multiscale physics and investigate cross-scale interactions as well as interaction between the atmospheric and oceanic components at across various spatial and temporal scales. I am also keen in using data driven techniques to identify and understand the dominant inter-scale and inter-component interactions.
+
+Understanding the fluid dynamics of the atmosphere and the ocean across a wide range of the spatio-temporal scales and how they influence each other is crucial in weather forecast, climate predictions and designing earth observation systems.
+
